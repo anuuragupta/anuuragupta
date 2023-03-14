@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<p align="left"> <a href="https://twitter.com/anuragg44782611" target="blank"><img src="https://img.shields.io/twitter/follow/anuragg44782611?logo=twitter&style=for-the-badge" alt="anuragg44782611" /></a> </p>
+
 <p><img align="right" width="250" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
 
 
@@ -35,7 +37,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuuragupta" alt="anuuragupta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anuragg44782611" target="blank"><img src="https://img.shields.io/twitter/follow/anuragg44782611?logo=twitter&style=for-the-badge" alt="anuragg44782611" /></a> </p>
+
 
 
 
