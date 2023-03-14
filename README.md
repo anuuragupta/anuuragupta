@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p><img align="right" src="https://drive.google.com/file/d/14NkLPwpfkmdfcwVuG0SAMWAl5XWumBHA/view?usp=share_link" alt="anuuragupta" /></p>
+<p><img align="right" src="https://drive.google.com/file/d/14NkLPwpfkmdfcwVuG0SAMWAl5XWumBHA/view" alt="anuuragupta" /></p>
 
 <p><img align="right" width="250" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
 
