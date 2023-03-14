@@ -1,7 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
 
-<p><img align="center" width="500" src="(https://pixteller.com/sh/xeloixr)" alt="anuuragupta" /></p>
+<p><img align="center" width="400" src="https://pixteller.com/sh/xeloixr" alt="anuuragupta" /></p>
+
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
