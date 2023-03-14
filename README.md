@@ -4,11 +4,6 @@
 
 <p><img align="right" width="250" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuuragupta" alt="anuuragupta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anuragg44782611" target="blank"><img src="https://img.shields.io/twitter/follow/anuragg44782611?logo=twitter&style=for-the-badge" alt="anuragg44782611" /></a> </p>
 
 - 🔭 I’m currently working on **SQL Analysis on E-commerce Sites**
 
@@ -23,6 +18,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uWQWDJNsq4rhNUPsvwh1Azrg6iS1Bkrq/view?usp=share_link](https://drive.google.com/file/d/1uWQWDJNsq4rhNUPsvwh1Azrg6iS1Bkrq/view?usp=share_link)
 
 - ⚡ Fun fact **I have a beef with wheat.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuuragupta" alt="anuuragupta" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/anuragg44782611" target="blank"><img src="https://img.shields.io/twitter/follow/anuragg44782611?logo=twitter&style=for-the-badge" alt="anuragg44782611" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
