@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/b8/11/37b8112791f2529ffe4882412b541c94.gif">
+<img align="center" alt="Coding" width="400" src="[https://i.pinimg.com/originals/37/b8/11/37b8112791f2529ffe4882412b541c94.gif](https://cdn-gobdd.nitrocdn.com/eVZfubIOhOVXRjhcJGTVnJQGTxrmGqXq/assets/static/optimized/rev-a5b85bc/wp-content/uploads/super-mario-footer-background.gif)">
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
