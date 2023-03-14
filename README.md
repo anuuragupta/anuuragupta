@@ -43,5 +43,5 @@
 
 <p><img align="right" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuuragupta&show_icons=true&locale=en&layout=compact" alt="anuuragupta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuuragupta&show_icons=true&locale=en&layout=compact" alt="anuuragupta" /></p>
 
