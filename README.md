@@ -4,7 +4,7 @@
 
 <img align="center" alt="Coding" width="250" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
+<p><img align="center" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
