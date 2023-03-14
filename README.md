@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuuragupta" alt="anuuragupta" /></a> </p>
