@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
 
+![NAME](https://user-images.githubusercontent.com/115775241/225304145-a5b8a4f9-9c8c-412c-bede-3dd0f6387bb8.gif)
 
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
