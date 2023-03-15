@@ -43,5 +43,4 @@
 
 <p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
 
-
-![Untitled ‑ Made with FlexClip-3](https://user-images.githubusercontent.com/115775241/225308409-01acd17d-1d8f-4eea-82e7-c6ff4eb5be2f.gif)
+![Untitled ‑ Made with FlexClip-3](https://user-images.githubusercontent.com/115775241/225308992-34d17ff1-b9ab-4013-a32a-0134319d5ebb.gif)
