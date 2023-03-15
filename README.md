@@ -43,5 +43,5 @@
 
 <p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
 
-<p><img align="center" height="500" width="1100" src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" alt="anuuragupta" /></p>
+<p><img align="center" height="300" width="1100" src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" alt="anuuragupta" /></p>
 
