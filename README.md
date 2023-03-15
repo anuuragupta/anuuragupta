@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=anuuragupta&show_icons=true&locale=en" alt="anuuragupta" /></p>
 
-<p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
+<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
 
 
 
