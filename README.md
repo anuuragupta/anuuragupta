@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
+<p align="left"> width="250" <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
 
 ![Untitled ‑ Made with FlexClip-4](https://user-images.githubusercontent.com/115775241/225311456-71c6634b-a489-43e4-9698-c2fc81503fcb.gif)
 
