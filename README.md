@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuuragupta&label=Profile%20views&color=0e75b6&style=flat" alt="anuuragupta" /> </p>
 
-<p align="center"> ![NAME](https://user-images.githubusercontent.com/115775241/225304145-a5b8a4f9-9c8c-412c-bede-3dd0f6387bb8.gif) </p>
+<p align="center"> <img src= "![NAME](https://user-images.githubusercontent.com/115775241/225304145-a5b8a4f9-9c8c-412c-bede-3dd0f6387bb8.gif)"/> </p>
 
 <p><img align="right" width="250" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f8dd332-c761-4c9e-bd26-80c67b79084c_492x376.gif" alt="anuuragupta" /></p>
 
