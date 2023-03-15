@@ -43,5 +43,5 @@
 
 <p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anuuragupta&" alt="anuuragupta" /></p>
 
-<iframe src="https://giphy.com/embed/7zJgqvSbjBH2M" width="480" height="307" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-<p><a href="https://giphy.com/stickers/ocean-waves-7zJgqvSbjBH2M">via GIPHY</a></p>
+<p><img align="center" width="300" src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" alt="anuuragupta" /></p>
+
