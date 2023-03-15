@@ -36,7 +36,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuuragupta" alt="anuuragupta" /></a> </p>
 
-
 <p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuuragupta&show_icons=true&locale=en&layout=compact" alt="anuuragupta" /></p>
 
 <p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=anuuragupta&show_icons=true&locale=en" alt="anuuragupta" /></p>
