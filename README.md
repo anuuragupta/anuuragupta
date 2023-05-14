@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuragg44782611" target="blank"><img src="https://img.shields.io/twitter/follow/anuragg44782611?logo=twitter&style=for-the-badge" width="200"  alt="anuragg44782611" /></a> </p>
 
-- 🔭 I’m currently working on **SQL Analysis on E-commerce Sites**
-
-- 🌱 I’m currently learning **Hadoop**
-
-- 👯 I’m looking to collaborate on **Road Lane Detection**
-
-- 💬 Ask me about **SQL, Tableau, Python**
+- 💬 Ask me about **SQL, Tableau, Python, Hadoop, Excel**
 
 - 📫 How to reach me **guptaanurag896@gmail.com**
 
