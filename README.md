@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **guptaanurag896@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1uWQWDJNsq4rhNUPsvwh1Azrg6iS1Bkrq/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1lDFIhaFMSWU4Os2x2J40ygACwm7uQjKd/view?usp=share_link
 
 - ⚡ Fun fact **I have a beef with wheat.**
 
